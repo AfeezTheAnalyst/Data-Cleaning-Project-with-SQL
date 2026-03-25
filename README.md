@@ -5,7 +5,8 @@
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Next Phase](https://img.shields.io/badge/Next-EDA-orange)
 
-[![View the SQL Script](https://img.shields.io/badge/SQL-MySQL-blue)](./Data_Cleaning_Project_with_SQL.sql)
+###👉 Click to view the SQL Script:  
+[![SQL](https://img.shields.io/badge/SQL-MySQL-blue)](./Data_Cleaning_Project_with_SQL.sql)
 
 ---
 
