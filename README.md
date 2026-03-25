@@ -1,8 +1,5 @@
 # 🌍 Global Layoffs Data Cleaning Project (SQL)
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Data Cleaning](https://img.shields.io/badge/Focus-Data%20Cleaning-green)
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Next Phase](https://img.shields.io/badge/Next-EDA-orange)
 
 ### 👉 **Click to View the SQL Data Cleaning Script and Dataset**
