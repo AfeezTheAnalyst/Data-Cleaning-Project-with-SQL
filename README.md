@@ -86,6 +86,7 @@ STR_TO_DATE(date, '%m/%d/%Y')
 Converted text-based dates into SQL DATE format
 
 ### 🔹🔄 Data Cleaning Workflow
+```sql
 Raw Data
    ↓
 Staging Table Creation
@@ -99,7 +100,7 @@ Data Standardization
 Null Handling & Imputation
    ↓
 Final Clean Dataset
-
+```
 
 ### 🔹 📈 Business Impact
 📊 Enables accurate trend analysis
