@@ -70,9 +70,14 @@ FROM layoffs_staging;
 Identified and removed duplicates with precision
 
 ### 🔹 Data Standardization
-Used TRIM() to remove whitespace
-Standardized inconsistent values (e.g., "Crypto%" → "Crypto")
-Cleaned country formatting issues
+- Used TRIM() to remove whitespace
+- Standardized inconsistent values (e.g., "Crypto%" → "Crypto")
+- Cleaned country formatting issues
+
+- Handling Missing Values
+- Replaced blanks with NULLs
+- Imputed missing values using self-joins
+- Removed unusable records
 
 ### 🔹 Date Conversion
 ```sql
