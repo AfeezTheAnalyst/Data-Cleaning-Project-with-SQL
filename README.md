@@ -85,5 +85,56 @@ STR_TO_DATE(date, '%m/%d/%Y')
 ```
 Converted text-based dates into SQL DATE format
 
+### 🔹🔄 Data Cleaning Workflow
+Raw Data
+   ↓
+Staging Table Creation
+   ↓
+Duplicate Detection (ROW_NUMBER)
+   ↓
+Duplicate Removal
+   ↓
+Data Standardization
+   ↓
+Null Handling & Imputation
+   ↓
+Final Clean Dataset
 
 
+### 🔹 📈 Business Impact
+📊 Enables accurate trend analysis
+📉 Prevents misleading insights from duplicates
+🌍 Improves cross-country comparability
+⚡ Prepares data for dashboards and reporting
+
+### 🔹 🧠 Lessons Learned
+- Real-world datasets are rarely clean and require careful preprocessing
+- SQL window functions like ROW_NUMBER() are powerful for deduplication
+- Handling missing and inconsistent data is critical to ensure accurate analysis
+- Standardizing text and date formats prevents downstream errors in reporting
+- Maintaining data integrity allows for more reliable insights
+
+
+### 🔹💡 Why This Project is Important
+- Clean data is the foundation of all analytics
+- Prevents misleading conclusions from duplicates or null values
+- Ensures that business decisions are data-driven and accurate
+- Builds practical skills in SQL, data cleaning, and preprocessing, which are highly sought after by employers
+
+### 🔹 🧩 Tools & Technologies
+SQL (MySQL)
+
+
+## 🚀** Next Steps: Exploratory Data Analysis (EDA)**
+
+In Phase 2, I will analyze:
+
+📅 Layoff trends over time
+🏭 Industry impact
+🌍 Geographic distribution
+💰 Relationship between funding and layoffs
+
+📬 Let's Connect
+
+If you're a recruiter or hiring manager interested in my work, feel free to reach out or connect with me on LinkedIn!
+https://www.linkedin.com/in/afeez-akinleye/
