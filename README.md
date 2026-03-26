@@ -1,4 +1,4 @@
-[![Next Phase](https://github.com/AfeezTheAnalyst/EDA_World_Layoffs_Data/edit/main/README.md)
+[![EDA](https://img.shields.io/badge/EDA-World_Layoffs-blue)](https://github.com/AfeezTheAnalyst/EDA_World_Layoffs_Data_with_SQL)
 
 ### 👉 **Click to View the SQL Data Cleaning Script and Dataset**
 [![SQL](https://img.shields.io/badge/SQL-MySQL-blue)](./Data_Cleaning_Project_with_SQL.sql)
